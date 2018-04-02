@@ -34,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4BC40F552072A2DF00CFE67C /* Swift_logo.svg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Swift_logo.svg.png; sourceTree = "<group>"; };
 		6A79AC332072516800A539A7 /* TestApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6A79AC362072516800A539A7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6A79AC382072516800A539A7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -97,6 +98,7 @@
 		6A79AC352072516800A539A7 /* TestApp */ = {
 			isa = PBXGroup;
 			children = (
+				4BC40F552072A2DF00CFE67C /* Swift_logo.svg.png */,
 				6A79AC362072516800A539A7 /* AppDelegate.swift */,
 				6A79AC382072516800A539A7 /* ViewController.swift */,
 				6A79AC3A2072516800A539A7 /* Main.storyboard */,
