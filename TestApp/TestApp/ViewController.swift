@@ -17,8 +17,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
 
-        
-    }
+            }
 
     @IBAction func btnOkClick(_ sender: UIButton) {
         lblTitle.text = "Hello World !"
